@@ -12,4 +12,4 @@
 
 *Simple measures for security(rot13 shifting)(in development)
 
-*Sending an email using Unix command sendmail
+*Sending an email using Unix command sendmail(early development)
