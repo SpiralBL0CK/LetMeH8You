@@ -1,6 +1,6 @@
 # LetMeH8You
 
-#A simple C project
+# A simple C project
 
 *Edit a journal
 
