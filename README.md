@@ -1,6 +1,6 @@
 # LetMeH8You
 
-#A simple C project.Features:
+#A simple C project
 *Edit a journal
 *Create new jurnal
 *Login/logout system(still in development)
