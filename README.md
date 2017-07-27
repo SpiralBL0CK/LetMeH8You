@@ -14,4 +14,4 @@
 
 *Anti-Reverse engineering measures(ptrace,obfuscanion,spcial flags used for compiling)(will be soon implemented)
 
-*Sending an email using Unix command sendmail(early development)
+*Sending an email using Unix command "sendmail"(early development)
