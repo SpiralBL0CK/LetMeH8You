@@ -2,11 +2,11 @@
 
 #A simple C project
 
-Edit a journal
+*Edit a journal
 
-Create new jurnal
+*Create new jurnal
 
-Login/logout system(still in development)
+*Login/logout system(still in development)
 
-Convert journal to pdf
+*Convert journal to pdf
 
