@@ -2,9 +2,9 @@
 
 # A simple C project
 
-*Edit a journal
+*Edit a personal journal
 
-*Create new jurnal
+*Create new personal journal
 
 *Login/logout system(still in development)
 
