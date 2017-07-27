@@ -12,4 +12,6 @@
 
 *Simple measures for security(rot13 shifting)(in development)
 
+*Anti-Reverse engineering measures(ptrace,obfuscanion,spcial flags used for compiling)(will be soon implemented)
+
 *Sending an email using Unix command sendmail(early development)
